@@ -2,7 +2,7 @@
   "name": "ibc789/media.jd",
   "description": "京东联盟php sdk调用代码",
   "keywords": ["sdk","jd sdk","jd","media.jd", "media-jd"],
-  "version": "1.0",
+  "version": "1.0.0",
   "require": {
     "php": ">5.4.0"
   },
