@@ -1,15 +1,14 @@
 {
-  "name": "ibc789/media-jd",
+  "name": "ibc789/mediajd",
   "description": "京东联盟php sdk调用代码",
-  "keywords": ["sdk", "media.jd", "media-jd"],
+  "keywords": ["sdk","jd sdk","jd","media.jd", "media-jd"],
   "version": "1.0",
   "require": {
-    "php": ">5.3",
-    "ibc789/media-jd-sdk": ">=1.0"
+    "php": ">5.4.0"
   },
   "license": "MIT",
   "autoload": {
-    "psr-4": {"Ibc789\\MediaJd\\": "src/"}
+    "psr-4": {"Ibc789\\Mediajd\\": "src/"}
   },
   "authors": [
     {
