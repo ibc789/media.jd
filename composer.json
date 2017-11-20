@@ -4,8 +4,7 @@
   "keywords": ["sdk","jd sdk","jd","media.jd", "media-jd"],
   "version": "1.0.0",
   "require": {
-    "php": ">5.4.0",
-    "ibc789/media.jd-sdk": ">=1.1.2"
+    "php": ">5.4.0"
   },
   "license": "MIT",
   "autoload": {
@@ -16,6 +15,5 @@
       "name": "ibc789",
       "email": "ibc789@163.com"
     }
-  ],
-  "minimum-stability": "dev"
+  ]
 }
