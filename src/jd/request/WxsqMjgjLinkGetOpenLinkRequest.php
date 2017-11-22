@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc\MediaJd;
 class WxsqMjgjLinkGetOpenLinkRequest
 {
 	private $apiParas = array();

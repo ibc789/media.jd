@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc\MediaJd;
 class UserCategory3InfoGetRequest
 {
 	private $apiParas = array();

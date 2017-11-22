@@ -1,4 +1,5 @@
 <?php
+namespace Ibc\MediaJd;
 class WareTemplateToWaresUpdateRequest
 {
 	private $apiParas = array();

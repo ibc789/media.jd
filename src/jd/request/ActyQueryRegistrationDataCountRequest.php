@@ -1,4 +1,5 @@
 <?php
+namespace Ibc\MediaJd;
 class ActyQueryRegistrationDataCountRequest
 {
 	private $apiParas = array();

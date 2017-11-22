@@ -1,4 +1,7 @@
 <?php
+
+namespace Ibc\MediaJd;
+
 class ServicePromotionCouponGetCodeByUnionIdRequest
 {
 	private $apiParas = array();

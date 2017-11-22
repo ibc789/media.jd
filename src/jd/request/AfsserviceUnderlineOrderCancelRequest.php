@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc\MediaJd;
 class AfsserviceUnderlineOrderCancelRequest
 {
 	private $apiParas = array();

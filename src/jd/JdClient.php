@@ -1,4 +1,7 @@
 <?php
+
+namespace Ibc\MediaJd;
+
 class JdClient
 {
 	public $serverUrl = "http://gw.api.360buy.net/routerjson";
@@ -12,9 +15,9 @@ class JdClient
 	public $appKey;
 
 	public $appSecret;
-	
+
 	public $version = "2.0";
-	
+
 	public $format = "json";
 
 	private $charset_utf8 = "UTF-8";
@@ -63,7 +66,7 @@ class JdClient
 			{
 				if("@" != substr($v, 0, 1))//判断是不是文件上传
 				{
-					$postBodyString .= "$k=" . urlencode($v) . "&"; 
+					$postBodyString .= "$k=" . urlencode($v) . "&";
 				}
 				else//文件上传用multipart/form-data，否则用www-form-urlencoded
 				{
@@ -82,7 +85,7 @@ class JdClient
 			}
 		}
 		$reponse = curl_exec($ch);
-		
+
 		if (curl_errno($ch))
 		{
 			throw new Exception(curl_error($ch),0);

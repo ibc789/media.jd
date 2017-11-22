@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc\MediaJd;
 class AdwordsReadFindAdWordsByWareIdRequest
 {
 	private $apiParas = array();

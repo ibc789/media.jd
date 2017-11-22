@@ -1,4 +1,7 @@
 <?php
+
+namespace Ibc\MediaJd;
+
 class AfsReturnServiceProviderCreateReturnApplyRequest
 {
 	private $apiParas = array();

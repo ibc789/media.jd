@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc\MediaJd;
 class AfsserviceServiceinfoGetRequest
 {
 	private $apiParas = array();

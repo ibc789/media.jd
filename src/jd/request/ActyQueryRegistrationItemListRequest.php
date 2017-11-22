@@ -1,4 +1,5 @@
 <?php
+namespace Ibc\MediaJd;
 class ActyQueryRegistrationItemListRequest
 {
 	private $apiParas = array();

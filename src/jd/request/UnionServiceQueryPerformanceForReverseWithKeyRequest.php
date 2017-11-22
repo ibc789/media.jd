@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc\MediaJd;
 class UnionServiceQueryPerformanceForReverseWithKeyRequest
 {
 	private $apiParas = array();

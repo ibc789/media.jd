@@ -1,4 +1,5 @@
 <?php
+namespace Ibc\MediaJd;
 class WareSkuDeleteRequest
 {
 	private $apiParas = array();

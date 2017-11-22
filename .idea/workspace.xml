@@ -2,7 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caeda43c-47e7-4a56-9da3-2a4c728fc96b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/JdClient.php" afterPath="$PROJECT_DIR$/src/jd/JdClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/RequestCheckUtil.php" afterPath="$PROJECT_DIR$/src/jd/RequestCheckUtil.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ActyQueryRegistrationDataCountRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ActyQueryRegistrationDataCountRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ActyQueryRegistrationItemListRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ActyQueryRegistrationItemListRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AddVenderDeliveryCompanyRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AddVenderDeliveryCompanyRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AddressCompleteServiceRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AddressCompleteServiceRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AdwordsReadFindAdWordsByWareIdRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AdwordsReadFindAdWordsByWareIdRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AdwordsWriteUpdateWareAdWordsRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AdwordsWriteUpdateWareAdWordsRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsReturnServiceProviderCreateReturnApplyRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsReturnServiceProviderCreateReturnApplyRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceAlltaskGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceAlltaskGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceAuditRejectRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceAuditRejectRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceCancelRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceCancelRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceCategoryGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceCategoryGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceCompensateorderAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceCompensateorderAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceCustomerDeliveryAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceCustomerDeliveryAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceCustomerfeedbackTransferRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceCustomerfeedbackTransferRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceFinishedtaskGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceFinishedtaskGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceFreightUpdateRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceFreightUpdateRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceFreightmessageGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceFreightmessageGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceHistoryGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceHistoryGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceJdInterveneRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceJdInterveneRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceMajorcategoryGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceMajorcategoryGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceMessagesystemGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceMessagesystemGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceOriginalorderidGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceOriginalorderidGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceReceivetaskGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceReceivetaskGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceRefundinfoGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceRefundinfoGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceRemarkAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceRemarkAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceReturnAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceReturnAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceReturnCancelRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceReturnCancelRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceReworkorderAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceReworkorderAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceServicedetailListRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceServicedetailListRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceServiceinfoGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceServiceinfoGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceServicelogGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceServicelogGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceTrackmessageReplayRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceTrackmessageReplayRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceUnderlineOrderAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceUnderlineOrderAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceUnderlineOrderCancelRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceUnderlineOrderCancelRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceUnpackinginfoGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceUnpackinginfoGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceUnresolvedtaskGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceUnresolvedtaskGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceWaitauditGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceWaitauditGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceWaitfetchGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceWaitfetchGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfsserviceWaitprocesstaskGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfsserviceWaitprocesstaskGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfterSearchRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfterSearchRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AfterStateUpdateRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AfterStateUpdateRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AgingtemplGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AgingtemplGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AirplaneServiceApiJosJosBookFlightRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AirplaneServiceApiJosJosBookFlightRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AirplaneServiceApiJosJosQueryFlightRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AirplaneServiceApiJosJosQueryFlightRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AllotEngineerRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AllotEngineerRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AppointmentConfirmRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AppointmentConfirmRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreaCityGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreaCityGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreaCountyGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreaCountyGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreaProvinceGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreaProvinceGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreaTownGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreaTownGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ArealimitReadFindAreaLimitsByWareIdRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ArealimitReadFindAreaLimitsByWareIdRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ArealimitWriteUpdateWareAreaLimitsRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ArealimitWriteUpdateWareAreaLimitsRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreasCityGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreasCityGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreasCountyGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreasCountyGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreasGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreasGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreasProvinceGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreasProvinceGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AreasTownGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AreasTownGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/AuditCancelProviderAuditCancelRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/AuditCancelProviderAuditCancelRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeBySubUnionIdRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeBySubUnionIdRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeByUnionIdRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeByUnionIdRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetInfoRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetInfoRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ServicePromotionGetcodeRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ServicePromotionGetcodeRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionDoubanBookServiceQueryBookUrlListRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionDoubanBookServiceQueryBookUrlListRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryCommisionsRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryCommisionsRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryOrdersRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryOrdersRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionSearchGoodsCategoryQueryRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionSearchGoodsCategoryQueryRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionSearchGoodsKeywordQueryRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionSearchGoodsKeywordQueryRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionSearchQueryCouponGoodsRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionSearchQueryCouponGoodsRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersWithKeyRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersWithKeyRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersWithKeyRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersWithKeyRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseWithKeyRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseWithKeyRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceWithPidRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceWithPidRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPullInWithPidRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPullInWithPidRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryCouponGoodsRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryCouponGoodsRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryExplosiveGoodsRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryExplosiveGoodsRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UserCategory3InfoGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UserCategory3InfoGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/UserPurchaserInfoGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/UserPurchaserInfoGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareSelectedProvinceListGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareSelectedProvinceListGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareSkuAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareSkuAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareSkuDeleteRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareSkuDeleteRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareSkuGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareSkuGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareSkuSearchListGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareSkuSearchListGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareSkuUpdateRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareSkuUpdateRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareSkusGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareSkusGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareTemplateAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareTemplateAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareTemplateDeleteRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareTemplateDeleteRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareTemplateGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareTemplateGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareTemplateIdsNamesGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareTemplateIdsNamesGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareTemplateToWaresUpdateRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareTemplateToWaresUpdateRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareTemplateUpdateRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareTemplateUpdateRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareUpdateDelistingRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareUpdateDelistingRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareUpdateListingRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareUpdateListingRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareUpdateRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareUpdateRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareVideobigfieldGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareVideobigfieldGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareWriteDeleteRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareWriteDeleteRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareWriteMergeWareFeaturesRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareWriteMergeWareFeaturesRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareWriteRecoverWareRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareWriteRecoverWareRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareWriteUpOrDownRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareWriteUpOrDownRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareStatusByTimerRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareStatusByTimerRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareTitleRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareTitleRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WaresListGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WaresListGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WaresSearchRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WaresSearchRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WaresVendersellskuAddRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WaresVendersellskuAddRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WaresVendersellskuUpdateRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WaresVendersellskuUpdateRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WeilianOpenAuthGetqrcodeRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WeilianOpenAuthGetqrcodeRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WirelessWarePriceGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WirelessWarePriceGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WosSubbiztypelistGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WosSubbiztypelistGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WosWorkinfoGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WosWorkinfoGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WosWorklistGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WosWorklistGetRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/WxsqMjgjLinkGetOpenLinkRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/WxsqMjgjLinkGetOpenLinkRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/YairComponentRunRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/YairComponentRunRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jd/request/ZxjCodGetRequest.php" afterPath="$PROJECT_DIR$/src/jd/request/ZxjCodGetRequest.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,30 +135,113 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="UserCategory3InfoGetRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/UserCategory3InfoGetRequest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="UserPurchaserInfoGetRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/UserPurchaserInfoGetRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServicePromotionCouponGetCodeBySubUnionIdRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeBySubUnionIdRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServicePromotionCouponGetCodeByUnionIdRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeByUnionIdRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServicePromotionCouponGetInfoRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetInfoRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServicePromotionGoodsInfoRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionGoodsInfoRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServicePromotionGetcodeRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionGetcodeRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnionOrderServiceQueryCommisionsRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryCommisionsRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WareWriteUpdateWareTitleRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareTitleRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkNotNull</find>
+      <find>checkMaxLength</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +249,56 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/jd/request/WeilianOpenAuthGetqrcodeRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareWriteUpOrDownRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareTitleRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareStatusByTimerRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareWriteRecoverWareRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareWriteMergeWareFeaturesRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareWriteDeleteRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareVideobigfieldGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareUpdateRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareUpdateListingRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareUpdateDelistingRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareTemplateUpdateRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareTemplateToWaresUpdateRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareTemplateIdsNamesGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareTemplateGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareTemplateDeleteRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareTemplateAddRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WaresVendersellskuUpdateRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WaresVendersellskuAddRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WaresSearchRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WaresListGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareSkuUpdateRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareSkusGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareSkuSearchListGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareSkuGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareSkuDeleteRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareSkuAddRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/WareSelectedProvinceListGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryOrdersRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionSearchGoodsCategoryQueryRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionDoubanBookServiceQueryBookUrlListRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionSearchGoodsKeywordQueryRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionSearchQueryCouponGoodsRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersWithKeyRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersWithKeyRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseWithKeyRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceWithPidRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionServiceQueryPullInWithPidRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryCouponGoodsRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryExplosiveGoodsRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UserCategory3InfoGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UserPurchaserInfoGetRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeBySubUnionIdRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeByUnionIdRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetInfoRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/ServicePromotionGetcodeRequest.php" />
+        <option value="$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryCommisionsRequest.php" />
         <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
@@ -61,8 +311,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="y" value="193" />
+    <option name="x" value="1544" />
+    <option name="y" value="23" />
     <option name="width" value="1873" />
     <option name="height" value="803" />
   </component>
@@ -81,7 +331,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,8 +357,49 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media.jd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media.jd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media.jd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media.jd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="request" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -194,15 +484,16 @@
       <option name="presentableId" value="Default" />
       <updated>1511162576059</updated>
       <workItem from="1511162577346" duration="1969000" />
-      <workItem from="1511166189840" duration="125000" />
+      <workItem from="1511166189840" duration="364000" />
+      <workItem from="1511335438263" duration="1482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2094000" />
+    <option name="totallyTimeSpent" value="3815000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="193" width="1873" height="803" extended-state="0" />
+    <frame x="1544" y="23" width="1873" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -235,40 +526,410 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareStatusByTimerRequest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareWriteRecoverWareRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareWriteMergeWareFeaturesRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareWriteDeleteRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareVideobigfieldGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareUpdateListingRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareUpdateDelistingRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareTemplateUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareTemplateToWaresUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareTemplateIdsNamesGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareTemplateGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareTemplateDeleteRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareTemplateAddRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WaresVendersellskuUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WaresVendersellskuAddRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WaresSearchRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WaresListGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareSkuUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareSkusGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareSkuSearchListGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareSkuGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareSkuDeleteRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareSkuAddRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareSelectedProvinceListGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/AuditCancelProviderAuditCancelRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryOrdersRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionSearchGoodsCategoryQueryRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionDoubanBookServiceQueryBookUrlListRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionSearchGoodsKeywordQueryRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionSearchQueryCouponGoodsRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryCommissionOrdersWithKeyRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryImportOrdersWithKeyRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceForReverseWithKeyRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryPerformanceWithPidRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionServiceQueryPullInWithPidRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryCouponGoodsRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionThemeGoodsServiceQueryExplosiveGoodsRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UserCategory3InfoGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UserPurchaserInfoGetRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeBySubUnionIdRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetCodeByUnionIdRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionGoodsInfoRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionGetcodeRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/ServicePromotionCouponGetInfoRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/WareWriteUpdateWareTitleRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jd/request/UnionOrderServiceQueryCommisionsRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="57">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
           <folding />
         </state>
       </provider>
